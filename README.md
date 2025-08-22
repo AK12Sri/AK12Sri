@@ -1,11 +1,11 @@
-## Hi there ✨ I'm Srivarshini 🌸  
+## Hi there! I'm Srivarshini ✨   
 
 📚 MS in Information Science @ UW–Madison  
 🔧 Former Hardware Design Engineer in ADAS  
 🤖 Exploring how **AI/ML can integrate with hardware systems**  
 💡 Interned at **C-Motive Technologies** – worked with **C on C2000 devices (Code Composer Studio)** and strengthened **GitHub collaboration**  
 
-### 🌷 About me  
+### 🌸 About me  
 - Passionate about where **hardware meets intelligent systems**  
 - Exploring **ML for embedded and automotive systems** 🚙✨  
 
